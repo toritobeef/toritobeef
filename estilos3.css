@@ -1,0 +1,292 @@
+html,
+body {
+    height: 100%;
+}
+
+
+img {
+    max-width: 100%;
+}
+
+.contenido-seccion {
+    padding: 5rem 0;
+}
+
+#acerca-de {
+    background: url('img/felabor1.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.texto-acerca-de {
+    background: rgba(0,0,0,0.8);
+    color: white;
+    padding: 1.875rem;
+}
+
+.col-md-6 {
+
+    -webkit-box-flex: 0;
+
+    -webkit-flex: 0 0 50%;
+  
+     -ms-flex: 0 0 50%;
+ 
+     flex: 0 0 50%;
+  
+     max-width: 50%;
+
+  }
+
+.container {
+  
+  padding-right: 0;
+ 
+   padding-left: 80px;
+ 
+
+ }
+
+
+
+.lead {
+ 
+ font-size: 1.25rem;
+ 
+ font-weight: 300;
+
+}
+
+
+
+.contenido-seccion2 {
+    padding: 5rem 0;
+}
+
+#acerca-de2 {
+    background: url('img/felabo2.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.texto-acerca-de2 {
+    background: rgba(0,0,0,0.8);
+    color: white;
+    padding: 1.875rem;
+}
+
+.col-md-62 {
+
+    -webkit-box-flex: 0;
+
+    -webkit-flex: 0 0 50%;
+  
+     -ms-flex: 0 0 50%;
+ 
+     flex: 0 0 50%;
+  
+     max-width: 50%;
+
+  }
+
+.container2 {
+  
+  padding-right: 0;
+ 
+   padding-left: 80px;
+ 
+
+ }
+
+
+
+.lead2 {
+ 
+ font-size: 1.25rem;
+ 
+ font-weight: 300;
+
+}
+
+
+
+
+.contenido-seccion3 {
+    padding: 5rem 0;
+}
+
+#acerca-de3 {
+    background: url('img/felabor3.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.texto-acerca-de3 {
+    background: rgba(0,0,0,0.8);
+    color: white;
+    padding: 1.875rem;
+}
+
+.col-md-63 {
+
+    -webkit-box-flex: 0;
+
+    -webkit-flex: 0 0 50%;
+  
+     -ms-flex: 0 0 50%;
+ 
+     flex: 0 0 50%;
+  
+     max-width: 50%;
+
+  }
+
+.container3 {
+  
+  padding-right: 0;
+ 
+   padding-left: 80px;
+ 
+
+ }
+
+
+
+.lead3 {
+ 
+ font-size: 1.25rem;
+ 
+ font-weight: 300;
+
+}
+
+
+
+.contenido-seccion4 {
+    padding: 5rem 0;
+}
+
+#acerca-de4 {
+    background: url('img/felabor5.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.texto-acerca-de4 {
+    background: rgba(61, 193, 211,0.8);
+    color: white;
+    padding: 1.875rem;
+}
+
+.col-md-64 {
+
+    -webkit-box-flex: 0;
+
+    -webkit-flex: 0 0 50%;
+  
+     -ms-flex: 0 0 50%;
+ 
+     flex: 0 0 50%;
+  
+     max-width: 50%;
+
+  }
+
+.container4 {
+  
+  padding-right: 0;
+ 
+   padding-left: 80px;
+ 
+
+ }
+
+
+
+.lead4 {
+ 
+ font-size: 1.25rem;
+ 
+ font-weight: 300;
+
+ text-align: justify;
+}
+
+
+
+#acerca-de5 {
+    background: url('img/felabor4.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.texto-acerca-de5 {
+    background: rgba(113, 88, 226,0.8);
+    color: white;
+    padding: 1.875rem;
+}
+
+#acerca-de6 {
+    background: url('img/felabor7.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.texto-acerca-de6 {
+    background: rgba(255, 56, 56,0.8);
+    color: white;
+    padding: 1.875rem;
+}
+
+
+#acerca-de7 {
+    background: url('img/felabor8.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.texto-acerca-de7 {
+    background: rgba(245, 205, 121,0.8);
+    color: white;
+    padding: 1.875rem;
+}
+
+
+.texto-acerca-de8 {
+    background: rgba(158, 158, 158,0.8);
+    color: white;
+    padding: 1.875rem;
+}
+
+#acerca-de9 {
+    background: url('img/felaborx.jpg') center center no-repeat;
+    background-size: cover;
+}  
+
+#acerca-de10 {
+    background: url('img/felabor9.jpg') center center no-repeat;
+    background-size: cover;
+}   
+
+#acerca-de11 {
+    background: url('img/felabor10.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+#acerca-de12 {
+    background: url('img/fd1.jpg') center center no-repeat;
+    background-size: cover;
+}   
+
+#acerca-de13 {
+    background: url('img/fd2.jpg') center center no-repeat;
+    background-size: cover;
+}  
+
+#acerca-de14 {
+    background: url('img/fd3.jpg') center center no-repeat;
+    background-size: cover;
+}  
+
+#acerca-de15 {
+    background: url('img/fd4.jpg') center center no-repeat;
+    background-size: cover;
+}   
+
+#acerca-de16 {
+    background: url('img/fd5.jpg') center center no-repeat;
+    background-size: cover;
+}  
